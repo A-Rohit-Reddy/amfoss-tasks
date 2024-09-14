@@ -1,4 +1,5 @@
 CODES:
+
 aHR0cHM6Ly9naXRo
 LnnmknnlLhrsdhk
 dWIuY29tL2FtYW5ze
@@ -14,3 +15,20 @@ This prompted me to reinstall the whole windows and took a lot of time to be set
 PART-1
 
  After cloning the repository , I learnt the various uses of ls command and how it is possible that all the files that are present may not be visible. So I used the ls -la command to get all the files available.
+I had to use the cat command to locate the parchment. It was quite easy and I enjoyed learning the basics.
+
+PART-2
+
+ This part felt somewhat difficult , but in the end managed to pull it off quite easily. 
+I did checkout all the branches , and made use of the previous commands I learnt , namely tree command and ls command.I faced a bit difficulty in using grep command which delayed my work a bit. I took help from my friends to learn the grep command and completed the task to get the code.
+
+PART-3
+ After completing the checking of light realm , I ventured into the dark realm , using the ls command and cat command , came across various files and codes.I had to crack the secret code to unlock the chest which lead me further to part 4.
+I enjoyed completing this task as it felt like a game and interested me a lot. I faced little difficulty and also lent a helping hand to my friends.
+
+PART-4
+ This felt like the most easiest task , since all it required was combing the previous codes I got. I had to use the base64 -d<<<'' command to get the link to the GodSuite repository which led me to the final part of this task. 
+
+PART-5
+ All this part required was observation and I finally found the secret code whick took me to the link that contained the victory note.
+The whole task was thouroughly engaging and at the same time I learnt many things.I enjoyed the task and completed it without any difficulty though I had to face some difficulties at the beginning.
