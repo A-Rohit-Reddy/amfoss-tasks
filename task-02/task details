@@ -1,1 +1,16 @@
+CODES:
+aHR0cHM6Ly9naXRo
+LnnmknnlLhrsdhk
+dWIuY29tL2FtYW5ze
+GNhbGlidXIvVGVyb
+WluYWwtQ2hhb3MtR29kU3VpdGU=
+CSigVmaroAn
 
+Difficulties Faced:
+
+I faced many difficulties while completing this task. This happened becasue I was unable to dual boot my system and had to consult a lot of people , try out various methods and despite doing that , could'nt really get what I wished.
+This prompted me to reinstall the whole windows and took a lot of time to be set up. This wasted most of my time resulting in a delay and misunderstanding of everything. However , once the dual booting was done , I was able to complete the task without any hurdle in 4 days.
+
+PART-1
+
+ After cloning the repository , I learnt the various uses of ls command and how it is possible that all the files that are present may not be visible. So I used the ls -la command to get all the files available.
