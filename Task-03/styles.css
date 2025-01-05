@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-family: "Jersey 10";
+  font-size: 7rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+.jersey-10-regular {
+  font-family: "Jersey 10", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sixtyfour-1{
+  font-family: "Sixtyfour", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+}
+.w {
+  background-color: rgb(51, 248, 248);
+}
+
+.a {
+  background-color: #f3e3db;
+}
+
+.s {
+  background-color: rgb(248, 244, 182);
+}
+
+.d {
+  background-color: rgb(240, 195, 230);
+}
+
+.j {
+  background-color: #93eb81;
+}
+
+.k {
+  background-color: aquamarine;
+}
+
+.l {
+  background-color: #d2d4da;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  font-family: Sixtyfour;
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 15px;
+  box-shadow: 10px 10px 5px 1px #eb2cf8;
+}
