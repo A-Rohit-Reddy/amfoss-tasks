@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', serif;
+    box-sizing: border-box;
+}
+
+
+
+.body{
+    background: #111111;
+}
+
+.search button img{
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+
+.card{
+    width: 100%;
+    max-width: 350px;
+    height: 390px;
+    width: 320px;
+    background-image: url("images/clouds.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: black;
+    margin: 0px auto 0;
+    border-radius: 0px;
+    border: 2px solid #978f8f;
+    padding: 0px 0px;
+    text-align: center;
+}
+
+
+.search{
+    border-width: 20px;
+    width: 400%;
+    align-items: center;
+    display:flex;
+    flex-wrap: wrap;
+    padding-right: 20px;
+    color: #0a0a0a;
+    margin-left: 10px;
+}
+
+.search input{
+    border: 1px solid rgb(20, 20, 20);
+    outline: 0;
+    background-color: transparent;
+    color: #0a0a0a;
+    padding: 10px 10px;
+    height: 50px;
+    width: 250px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-right: 14px;
+}
+
+.search button{
+    border: 0;
+    outline: 0;
+    border-radius: 50%;
+    cursor: pointer;
+    flex-shrink: 0;
+    opacity: 0.7;
+}
+
+.weather h1{
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+}
+
+.greeting{
+    font-size: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+.weather h3{
+    padding-bottom: 20px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+
+
