@@ -16,4 +16,8 @@ I had to install the PIL (Pillow), re and pytesseract libraries in order to dete
 	
 	python3 <file_name>: Run a python fie
 	
+## OVERALL EXPERIENCE
+
+I found this task a bit confusing at first, since I did not exactly get what I was supposed to do, but once I understood the task, I understood how fun it is and also how easy it was compared to the other tasks. While the coding was a bit difficult, as it was completely new, I enjoyed each and every part of it.
+	
 			
