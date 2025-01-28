@@ -3,7 +3,7 @@ import pytesseract
 import re
 
 # Path to your image file
-image_path = "path_of_image.png"
+image_path = "path_of_image"
 
 try:
     # Load and preprocess the image
