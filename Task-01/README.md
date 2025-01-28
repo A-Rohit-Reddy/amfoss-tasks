@@ -15,6 +15,8 @@ The subsequent parts were fun to do as it involved finding files using the clues
 ## COMMANDS LEARNT
 	
 	cd <directory_path>: Changes the current working directory to the specified path.
+	
+	ls -la : To fetch the list of files in the directory
 
 	python3 [filename] : To run a python file
 
@@ -31,7 +33,7 @@ In the next challenge, the atomic number of the element that was first used to m
 
 ## PART-4
 
-This challenge was purely based on Harry Potter series , although it was a bit confusing in the middle where we had to copy the spell file in another branch to our main branch , and then execute the file to get the secret code. The file was named after a spell used to fight the creature given by the hints , which was Riddikulus.
+To start with this part, all we had to do was first switch to a branch which was named after the subject taught by Professor Lupin at Hogwarts. I found out that the subject was " Defence Against The Dark Arts". This challenge was purely based on Harry Potter series , although it was a bit confusing in the middle where we had to copy the spell file in another branch to our main branch , and then execute the file to get the secret code. The file was named after a spell used to fight the creature given by the hints , which was Riddikulus.
 	
 ## COMMANDS LEARNT
 
@@ -52,6 +54,9 @@ This part was the toughest amongst the all, as it required checking the commit m
 ## PART-6
 
 This part marked the end of the task where all I had to do was join all the codes I had found earlier to get the secret code. Using echo command , I decoded the code in a readable format and got the link to the final github repository which contained the congratulatory message and that marked the end of my task.
+
+Here is the link I got after decoding the secret code:
+https://github.com/TheHuntsman4/TheFinalSpell
 	
 ## COMMANDS LEARNT
 
