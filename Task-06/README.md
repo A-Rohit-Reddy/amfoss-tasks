@@ -22,6 +22,10 @@ This task became exciting as I delved deeper, and it helped me learn a lot about
 	
 	flutter doctor: Checks your flutter environment to identify any missing dependencies or configurations.
 	
+## OVERALL EXPERIENCE
+
+This was the most difficult task according to me, which frustrated me a lot and got me confused. I had to try again and again to get the code right. I was very confused which led me to the realization that despite managing to complete the task somehow, I would have to again learn everything and become perfect, because of the troubles I faced and the amount of help I had to get. I plan to work on this more after the submission and maybe then be perfect and clear.
+	
 	
 	
 	
