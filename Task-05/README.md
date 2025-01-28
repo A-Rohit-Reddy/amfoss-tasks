@@ -25,6 +25,10 @@ I had to first learn about the key components of the GUI framework of PySide6 pa
 	
 	python --version: Returns the current python version you are using
 	
+## OVERALL EXPERIENCE
+
+I found the task a bit difficult, but also engaging. To be frank, the idea of a pokemon api itself excited me a lot, because that cartoon is something everyone is a big fan of, including myself. I enjoyed the task, but also felt very frustrated at times. I had to shuffle this task with task 07 in order to be at peace, especially in the part 1 and part 2. Neverthless, I enjoyed the task very much, and this was my favourite task which I had completed successfully.
+	
 
 	
 	
