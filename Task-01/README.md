@@ -64,4 +64,9 @@ This part marked the end of the task where all I had to do was join all the code
 	git branch: Lists all available branches in the repository.
 
 	git push: Pushes the local branch's changes to the remote repository.
+	
+
+## OVERALL EXPERIENCE
+
+The task was pretty fun, and the way it led to clues, was very engaging. I thoroughly enjoyed this task, and this has to be my favourite task among all, mainly considering that this was the first task I started with, and this motivated me a lot. Though I was confused a bit at times, this was one of the easiest tasks to start with and I had a great time doing them.
 
